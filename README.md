@@ -58,12 +58,8 @@ Aqui, demonstro o uso de commits organizados, branches, pull requests, merges e 
 ## 🛠️ Como Executar
 
 ```bash
-# Clone o repositório
-git clone https://github.com/SEU_USUARIO/NOME_REPOSITORIO.git
-
-# Acesse a pasta
-cd NOME_REPOSITORIO
-
-# (Se necessário) compile ou execute o código
-gcc src/arquivo_codigo.c -o programa
-./programa
+# Isso aqui é a branch teste, apenas para testar e mostrar como funcionou o processo
+git checkout -b teste
+#depois desse codigo eu basicamente acessei a branch, fiz uma alteração e agora falta apenas commitar... MEsmo esquema de sempre
+git add .
+git commit -m "" #escreva a mensagem
