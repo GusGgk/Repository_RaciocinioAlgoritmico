@@ -1,8 +1,8 @@
 # 💻 Projeto de Raciocínio Algorítmico
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SEU_USUARIO/NOME_REPOSITORIO)
-![GitHub stars](https://img.shields.io/github/stars/SEU_USUARIO/NOME_REPOSITORIO?style=social)
-![GitHub last commit](https://img.shields.io/github/last-commit/SEU_USUARIO/NOME_REPOSITORIO)
+![GitHub repo size](https://img.shields.io/github/repo-size/GusGgk/Repository_RaciocinioAlgoritmico)
+![GitHub stars](https://img.shields.io/github/stars/GusGgk/Repository_RaciocinioAlgoritmico?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/GusGgk/Repository_RaciocinioAlgoritmico)
 
 ## 📋 Descrição
 
@@ -28,23 +28,19 @@ Aqui, demonstro o uso de commits organizados, branches, pull requests, merges e 
 
 ## 🧠 Conceitos Aplicados
 
-✅ Instalação e configuração do Git  
-✅ Criação de repositórios e versionamento com commits claros  
-✅ Uso de branches e pull requests simulados  
-✅ Integração com GitHub e documentação com Markdown  
+✅ Criação de uma nova branch (teste)
+✅ Criação de Pull Request 
 
 ---
 
 ## 🖼️ Demonstrações / Screenshots
 
-### 📌 Git configurado (userName and Email)
+### 📌 Criação da branch teste
 ![Configuração do Git]()
 
-### 📌 Commits organizados
-![Commits organizados](./imagens/commits_exemplo.png)
+### 📌 Pagina do pull request
+![Commits organizados]()
 
-### 📌 Pull Request e Merge
-![Pull Request](./imagens/pull_request.png)
 
 ---
 
