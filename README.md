@@ -36,10 +36,10 @@ Aqui, demonstro o uso de commits organizados, branches, pull requests, merges e 
 ## 🖼️ Demonstrações / Screenshots
 
 ### 📌 Criação da branch teste
-![Configuração do Git]()
+![Criação da Branch Teste](CriacaodeBranch.png)
 
 ### 📌 Pagina do pull request
-![Commits organizados]()
+![Pagina do Pull Request](PaginaPullRequest.png)
 
 
 ---
