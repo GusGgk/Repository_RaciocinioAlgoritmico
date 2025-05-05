@@ -47,7 +47,7 @@ usei o git add . para adicionar todos os arquivos que eu já tinha da materia!
 ```
 ![Commits organizados](imagens_do_Git_para_TDE1/Adicionando_o_Repositorio_remoto.png)
 
-### 📌 Pull Request e Merge
+### 📌 Push  e Merge
 ![Pull Request](imagens_do_Git_para_TDE1/Git_Push_e_Merge.png)
 
 ---
