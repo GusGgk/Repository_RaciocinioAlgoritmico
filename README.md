@@ -38,7 +38,7 @@ Aqui, demonstro o uso de commits organizados, branches, merges e estruturação 
 ## 🖼️ Demonstrações / Screenshots
 
 ### 📌 Git configurado (userName and Email)
-![Configuração do Git](imagens_do_Git_para_TDE1/Git_configurado.png)
+![Configuração do Git](imagens_do_Git_para_TDE1/GitConfigurado.png)
 
 ### 📌 Commits organizados
 ```bash
