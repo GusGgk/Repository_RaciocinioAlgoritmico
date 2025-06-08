@@ -5,8 +5,7 @@ h = float(input("Digite a altura do cilindro: "))
 pi = 3.14
 
 def area_lateral():
-    lateral = (2*pi)*r*h
-    return lateral
+    return (2*pi)*r*h
 
 def area_das_bases():
     base = (2*pi)*(r**2) 
