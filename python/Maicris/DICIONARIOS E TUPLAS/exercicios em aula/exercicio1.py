@@ -21,6 +21,6 @@ print(f"\n------------- Lista de Usuarios -----------")
 print(list_users)
 
 print(F"\n----------- LISTA COM DADOS SEPARADOS ----------")
-for u in list_users:
-    name, rg, cpf = u
+for i in list_users:
+    name, rg, cpf = i
     print(f"Nome: {name}  |  RG: {rg}  |  CPF: {cpf}")

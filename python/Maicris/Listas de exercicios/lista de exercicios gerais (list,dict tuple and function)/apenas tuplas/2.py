@@ -1,0 +1,1 @@
+"""Tente alterar um elemento da tupla e explique por que isso não é possível."""
